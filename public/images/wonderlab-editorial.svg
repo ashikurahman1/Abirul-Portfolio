@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="880" viewBox="0 0 1400 880">
+  <title>Wonderlab editorial and publication concept</title>
+  <rect width="1400" height="880" fill="#d8ddcf"/>
+  <g transform="translate(75 103) rotate(-5 238 327)">
+    <rect x="11" y="13" width="476" height="654" fill="#b6bdad"/><rect width="476" height="654" fill="#f5f0e3"/>
+    <text x="31" y="58" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#254531">CURIOSITY IN PRINT / ISSUE 01</text>
+    <g font-family="Georgia,serif" fill="#e45725" font-size="86" letter-spacing="-6"><text x="27" y="149">wonder</text><text x="27" y="232">lab.</text></g>
+    <path d="M81 546c0-177 274-260 310-193 60 110-66 263-171 233-126-36-87-251 69-193" fill="none" stroke="#254531" stroke-width="27"/>
+    <circle cx="354" cy="287" r="40" fill="#e45725"/>
+    <text x="31" y="620" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#254531">ART. NATURE. NEW PERSPECTIVES.</text>
+  </g>
+  <g transform="translate(602 189) rotate(3 354 245)">
+    <rect x="10" y="14" width="714" height="492" fill="#b6bdad"/><rect width="714" height="492" fill="#f5f0e3"/><path d="M357 0v492" stroke="#d5cdbc" stroke-width="2"/>
+    <g fill="#254531" font-family="Arial,sans-serif"><text x="30" y="40" font-size="10" letter-spacing="2">WONDERLAB / FIELD NOTES</text><text x="385" y="460" font-size="10" letter-spacing="2">A CLOSER LOOK / 03</text></g>
+    <g fill="#e45725" font-family="Georgia,serif" font-size="44" letter-spacing="-2"><text x="29" y="106">Look a little</text><text x="29" y="153">closer.</text></g>
+    <g stroke="#a4aa98" stroke-width="3"><path d="M31 215h284m-284 15h277m-277 15h285m-285 15h259m-259 15h281m-281 15h273m-273 15h188M31 352h284m-284 15h261m-261 15h285m-285 15h224"/></g>
+    <rect x="385" y="33" width="299" height="379" fill="#254531"/><path d="M528 360V107m0 178c-88 0-115-82-71-101 53-23 71 79 71 79m0-44c69 0 117-79 69-111-39-26-68 73-68 73m0 119c85 0 116-58 78-80-36-21-78 53-78 53" fill="none" stroke="#d8ddcf" stroke-width="13" stroke-linecap="round"/><circle cx="630" cy="91" r="29" fill="#e45725"/>
+  </g>
+  <text x="687" y="805" font-family="Arial,sans-serif" font-size="13" letter-spacing="4" fill="#254531">COVER DESIGN · EDITORIAL GRID · ART DIRECTION</text>
+</svg>

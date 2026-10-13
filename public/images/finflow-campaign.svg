@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="880" viewBox="0 0 1400 880">
+  <title>Finflow typography and campaign concept</title>
+  <rect width="1400" height="880" fill="#ded9ea"/>
+  <g transform="translate(77 94) rotate(-6 245 340)">
+    <rect x="12" y="15" width="490" height="680" fill="#c4bcd4"/><rect width="490" height="680" fill="#5128d5"/>
+    <g font-family="Arial,sans-serif" fill="#ece9ff"><text x="35" y="64" font-size="33" font-weight="700">finflow®</text><text x="35" y="185" font-size="74" font-weight="700" letter-spacing="-4">YOUR</text><text x="35" y="263" font-size="74" font-weight="700" letter-spacing="-4">NEXT</text><text x="35" y="341" font-size="74" font-weight="700" letter-spacing="-4">MOVE.</text><text x="35" y="623" font-size="14" letter-spacing="2">MAKE ROOM FOR POSSIBILITY.</text></g>
+    <g fill="none" stroke="#d8f669" stroke-width="32"><circle cx="311" cy="476" r="93"/><path d="M134 476h270m-67-67 67 67-67 67"/></g>
+  </g>
+  <g transform="translate(646 94)"><rect x="10" y="12" width="659" height="348" fill="#c4bcd4"/><rect width="659" height="348" fill="#d8f669"/><g fill="#38207c" font-family="Arial,sans-serif"><text x="31" y="51" font-size="25" font-weight="700">finflow®</text><text x="31" y="154" font-size="69" font-weight="700" letter-spacing="-3">THINK BIG.</text><text x="31" y="229" font-size="69" font-weight="700" letter-spacing="-3">START NOW.</text><text x="33" y="306" font-size="13" letter-spacing="2">CAMPAIGN / LANDSCAPE FORMAT</text></g><circle cx="605" cy="46" r="16" fill="#5128d5"/></g>
+  <g transform="translate(646 485)"><rect x="10" y="12" width="659" height="301" fill="#c4bcd4"/><rect width="659" height="301" fill="#241448"/><path d="M331 0a150 150 0 0 1 0 300M431 0a150 150 0 0 1 0 300M531 0a150 150 0 0 1 0 300" fill="none" stroke="#5128d5" stroke-width="40"/><g fill="#d8f669" font-family="Arial,sans-serif"><text x="31" y="57" font-size="25" font-weight="700">finflow®</text><text x="31" y="153" font-size="53" font-weight="700" letter-spacing="-2">FORWARD.</text><text x="33" y="259" font-size="13" letter-spacing="2">ONE CLEAR DIRECTION.</text></g></g>
+</svg>
