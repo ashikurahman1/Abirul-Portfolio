@@ -4,6 +4,9 @@ import { krishokBariArtwork, krishokBariProject } from "./projects/krishok-bari"
 import { ghorerBazarProject } from "./projects/ghorer-bazar";
 import { mashrafiArtwork, mashrafiProject } from "./projects/mashrafi";
 import { pushtiArtwork, pushtiProject } from "./projects/pushti";
+import { sourcetrackArtwork, sourcetrackProject } from "./projects/sourcetrack";
+import { rupnazArtwork, rupnazProject } from "./projects/rupnaz";
+import { finemanArtwork, finemanProject } from "./projects/fineman";
 import type { Project } from "./projects/types";
 export type { Project } from "./projects/types";
 
@@ -118,6 +121,9 @@ export const projects: Project[] = [
   ghorerBazarProject,
   mashrafiProject,
   pushtiProject,
+  sourcetrackProject,
+  rupnazProject,
+  finemanProject,
 ];
 export const gallery = projects.map((project) => ({
   project,
